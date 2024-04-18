@@ -19,7 +19,7 @@
 ### :man_technologist: About Me :
 - I'm a newcomer in the world of tech, always hungry to learn and stay updated on the latest trends. I thrive on tackling new challenges and expanding my skills.
 - Right now, I'm diving into Web Development, with my sights set on exploring App Development and beyond.
-- In this repository, I'm working on some projects to enhance my skills and explore new ideas. I'm all about learning and embracing new opportunities, excited to see where my tech journey leads me!
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
