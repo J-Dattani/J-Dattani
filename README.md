@@ -10,9 +10,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 - I'm a newcomer in the world of tech, always hungry to learn and stay updated on the latest trends. I thrive on tackling new challenges and expanding my skills.
 - Right now, I'm diving into Web Development, with my sights set on exploring App Development and beyond.
 
@@ -24,7 +25,9 @@
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+---
+
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -37,16 +40,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-# 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=J-Dattani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=J-Dattani&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Quote
+---
+
+## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
-# 📈 Profile Views:
+## 📈 Profile Views:
 
 [![](https://visitcount.itsvg.in/api?id=J-Dattani&icon=0&color=1)](https://visitcount.itsvg.in)
