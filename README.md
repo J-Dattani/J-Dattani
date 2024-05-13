@@ -51,7 +51,7 @@
 ---
 
 ## ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Programming%20isn’t%20about%20what%20you%20know;%20%20%20%20%20%20%20it’s%20about%20what%20you%20can%20figure%20out.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 ## 📈 Profile Views:
