@@ -38,6 +38,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -49,9 +50,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## ✍️ Quote
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Programming%20isn’t%20about%20what%20you%20know;%20%20%20%20%20%20%20it’s%20about%20what%20you%20can%20figure%20out.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 ## 📈 Profile Views:
