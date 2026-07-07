@@ -412,11 +412,11 @@ Chrome Extension for Highlights
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=J-Dattani&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
