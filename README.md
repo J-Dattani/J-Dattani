@@ -1,233 +1,765 @@
-
 <div align="center">
 
-<img src="Beige Simple Elegant Personal LinkedIn Banner.png" alt="Banner"/>
+<img src="assets/banner.png" width="100%" alt="Jaymin Dattani Banner"/>
 
-# Hi, I'm Jaymin Dattani 👋
+<br>
 
-### 🚀 Computer Engineering Student • Full Stack Developer • AI Explorer • Open Source Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Jaymin+Dattani;Full+Stack+Developer;Computer+Engineering+Student;AI+%7C+Cloud+%7C+Open+Source;Building+Ideas+Into+Reality" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+projects.;Learning+something+new+every+day.;Open+Source+Contributor.;Cloud+%7C+AI+%7C+Web+Development.;Always+curious.+Always+building." />
-
-<p>
-<a href="https://www.linkedin.com/in/jaymin-dattani-ba6695294">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://jaymin-dattani.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-111827?style=for-the-badge"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/jaymin-dattani-ba6695294">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=J-Dattani&style=for-the-badge&color=blue)
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/J-Dattani">
+<img src="https://img.shields.io/github/followers/J-Dattani?label=Followers&logo=github&style=for-the-badge"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=J-Dattani&style=for-the-badge&color=0891b2)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Developer Dashboard
 
-🎓 B.Tech Computer Engineering Student at **Marwadi University**
+<table>
+<tr>
 
-🏆 Diploma Graduate with **9.84 CPI**
+<td width="50%">
 
-💡 Passionate about building practical software that solves real problems.
+```yaml
+Name        : Jaymin Dattani
 
-🌱 Currently learning
+Role        : Full Stack Developer
 
-- MERN Stack
-- Cloud Computing
-- Artificial Intelligence
-- System Design
+Education   : B.Tech Computer Engineering
 
-❤️ Things I enjoy
+University  : Marwadi University
 
-- Open Source
-- Hackathons
-- Building Side Projects
-- Exploring New Technologies
+Location    : Gujarat 🇮🇳
+
+Diploma CPI : 9.84/10
+
+Patent      : Published ✅
+
+Focus        AI • Cloud • MERN
+```
+
+</td>
+
+<td width="50%">
+
+```bash
+$ whoami
+
+Open Source Contributor 💙
+
+Hackathon Enthusiast 🚀
+
+Problem Solver 🧠
+
+Always Learning 📚
+
+Coffee Driven ☕
+
+Dream -> Build products
+used by millions.
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🚀 Current Focus
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="32"> About Me
 
-```text
-⚡ Building Full Stack Projects
-☁ Learning Cloud Technologies
-🤖 Exploring AI & Agentic Systems
-📚 Improving DSA & Problem Solving
-🌍 Contributing to Open Source
-````
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```cpp
+class JayminDattani{
+
+public:
+
+string role = "Computer Engineering Student";
+
+string passion = "Building Useful Software";
+
+string currentlyLearning = "MERN + AI + Cloud";
+
+string hobbies[] = {
+
+"Hackathons",
+
+"Open Source",
+
+"Developer Communities",
+
+"Building Cool Projects"
+
+};
+
+void life(){
+
+Learn();
+
+Build();
+
+Share();
+
+Repeat();
+
+}
+
+};
+```
+
+<br>
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Current Status
 
-### Languages
+<table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,php,python"/>
-</p>
+<tr>
 
-### Frontend
+<td>🔭 Building</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
-</p>
+<td><b>PixelPass (MERN)</b></td>
 
-### Backend
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
-</p>
+<tr>
 
-### Database
+<td>🌱 Learning</td>
 
-<p>
+<td><b>AWS • AI Agents • Kubernetes</b></td>
+
+</tr>
+
+<tr>
+
+<td>💬 Ask me about</td>
+
+<td><b>JavaScript • React • Node • PHP</b></td>
+
+</tr>
+
+<tr>
+
+<td>🎯 2026 Goal</td>
+
+<td><b>Become a Full Stack + AI Engineer</b></td>
+
+</tr>
+
+<tr>
+
+<td>⚡ Fun Fact</td>
+
+<td><b>I love turning ideas into products.</b></td>
+
+</tr>
+
+</table>
+
+---
+
+# 💻 Tech Arsenal
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,php"/>
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind"/>
+
+<br><br>
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+<br><br>
+
+### 🗄 Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-</p>
 
-### Tools
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma"/>
-</p>
+### ☁ Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux,figma"/>
+
+</div>
 
 ---
 
-# 🏆 Highlights
+# 🚀 Currently Exploring
 
-* 🏅 Patent Published
-* 💙 Elite Coders Winter of Code Contributor
-* 🌩 Active GDG Community Participant
-* 🎯 Campus Ambassador Experience
-* ☁ Oracle Cloud & APEX Certified
-* 🚀 Built Multiple Full Stack Projects
+<div align="center">
+
+| 🤖 AI | ☁ Cloud | ⚛ React | 🌍 Open Source |
+|:----:|:-------:|:-------:|:--------------:|
+| ████████░░ | ███████░░░ | █████████░ | ████████░░ |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 My Philosophy
+
+```cpp
+while(alive){
+
+    Learn();
+
+    Build();
+
+    HelpOthers();
+
+    Repeat();
+
+}
+```
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=120&section=footer"/>
+
+# 🏆 Achievement Dashboard
+
+<div align="center">
+
+| 🏅 Achievement | Status | Year |
+|:--------------|:------:|:----:|
+| 🎓 Diploma in Computer Engineering | **9.84 CPI** | 2025 |
+| 📜 Patent Published | ✅ | 2025 |
+| 💙 Elite Coders Winter of Code | Contributor | 2026 |
+| ☁ Oracle Cloud Infrastructure | Certified | 2026 |
+| 🌩 Oracle APEX | Certified | 2026 |
+| 🤝 Campus Ambassador | Completed | 2026 |
+| 🌍 Google Developer Groups | Active Member | Present |
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎮 PixelPass
+<div align="center">
 
-Game Subscription Platform built using the MERN Stack.
+<table>
 
----
+<tr>
 
-### 🐶 Dog Care & Wellness
+<td width="50%">
 
-A smart website for pet health, BMI tracking, vaccination reminders and care guidance.
+## 🎮 PixelPass
 
----
+Netflix-inspired Game Subscription Platform
 
-### ⚡ TrailNote
+### ✨ Features
 
-A lightweight browser extension for saving webpage highlights and notes.
+- 🎮 Browse Games
+- ❤️ Wishlist
+- 🔍 Smart Search
+- 👤 User Authentication
+- 💳 Subscription Ready
 
----
+**Tech Stack**
 
-### 🎮 NEON BREAKER
+`React`
 
-Gesture-controlled browser game powered by MediaPipe and Computer Vision.
+`Node.js`
 
----
+`Express`
 
-# 📈 GitHub Analytics
+`MongoDB`
 
-<p align="center">
+</td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true"/>
+<td width="50%">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="140">
 
-</p>
+</td>
 
-<p align="center">
+</tr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=J-Dattani&theme=tokyonight&hide_border=true"/>
+</table>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Dattani&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=J-Dattani&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🌍 Community
-
-* 💙 Google Developer Groups
-* 🚀 Hackathons
-* 🤝 Open Source
-* ☁ Cloud Communities
-* 💡 Tech Workshops
-* 🎤 Developer Events
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Build impactful Full Stack Applications
-* ✅ Contribute to Open Source regularly
-* ✅ Earn Cloud Certifications
-* ✅ Participate in National Hackathons
-* ✅ Learn Kubernetes & DevOps
-* ✅ Grow as an AI Engineer
-
----
-
-# 💭 Developer Philosophy
-
-```cpp
-while(alive)
-{
-    Learn();
-    Build();
-    Share();
-    Repeat();
-}
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jaymin-dattani-ba6695294">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://jaymin-dattani.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+<table>
 
-*"Building today, improving tomorrow."*
+<tr>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="140">
+
+</td>
+
+<td width="50%">
+
+## 🐶 Dog Care & Wellness
+
+Complete Pet Healthcare Platform
+
+### Features
+
+✔ BMI Calculator
+
+✔ Vaccination Reminder
+
+✔ Health Tracker
+
+✔ Vet Information
+
+✔ Pet Profiles
+
+**HTML • CSS • Bootstrap • JavaScript**
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ⚡ TrailNote
+
+Chrome Extension
+
+Capture highlights while browsing.
+
+Organize ideas.
+
+Minimal.
+
+Fast.
+
+Private.
+
+**JavaScript**
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/chrome-extension/chrome-extension.png" width="130">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="130">
+
+</td>
+
+<td width="50%">
+
+## 🤖 Search4Career
+
+📜 Patent Published
+
+AI-based Career Recommendation System
+
+### Features
+
+🎯 Career Prediction
+
+📊 Student Analysis
+
+🧠 Recommendation Engine
+
+PHP + MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎮 NEON BREAKER
+
+Gesture Controlled Browser Game
+
+Built using Computer Vision
+
+### Features
+
+🖐 Hand Tracking
+
+⚡ Neon UI
+
+🎯 Real-Time Gameplay
+
+MediaPipe + JavaScript
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" width="130">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📅 Developer Journey
+
+```text
+2024
+│
+├── 💼 Web Development Internship
+│
+├── 🌐 Built Multiple Websites
+│
+├── 🐶 Dog Care Project
+│
+├────────────────────────────────────
+
+2025
+│
+├── 🎓 Diploma Completed (9.84 CPI)
+│
+├── 📜 Patent Published
+│
+├── 🚀 Started B.Tech
+│
+├────────────────────────────────────
+
+2026
+│
+├── 💙 Elite Coders Winter of Code
+│
+├── ☁ Oracle Cloud Certified
+│
+├── 🌩 Oracle APEX Certified
+│
+├── 🌍 GDG Events
+│
+├── 🤖 AI Projects
+│
+├── 🎮 PixelPass
+│
+└── 🚀 Open Source Journey
+```
+
+---
+
+# 🌍 Community Journey
+
+<div align="center">
+
+| Community | Status |
+|:---------|:------:|
+| 💙 Google Developer Groups | Active |
+| 🚀 Hackathons | Regular Participant |
+| 🤝 Open Source | Contributor |
+| ☁ Cloud Communities | Active |
+| 🎤 Tech Workshops | Attendee |
+| 💡 Student Communities | Member |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle_APEX-Certified-EA1D2C?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Developer_Groups-Community-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributor-181717?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+# ☕ Beyond Coding
+
+<div align="center">
+
+| 💻 Coding | 🚀 Building | 🤝 Networking |
+|:---------:|:----------:|:-------------:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+
+| 🎯 Problem Solving | ☁ Learning Cloud | 🤖 Exploring AI |
+|:------------------:|:----------------:|:---------------:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Small improvements every day lead to remarkable results."
+
+</div>
+
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=J-Dattani&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Dattani&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=J-Dattani&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **Coming Soon 🚀**
+
+Once GitHub Actions is enabled, this section will automatically generate your contribution snake.
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📊 Coding Activity
+
+<div align="center">
+
+| Category | Progress |
+|:---------|:--------:|
+| 🌐 Web Development | ████████████████████ 95% |
+| ⚛ React | █████████████████░░ 85% |
+| 🟢 Node.js | ███████████████░░░░ 75% |
+| ☁ Cloud Computing | ███████████░░░░░░░ 60% |
+| 🤖 Artificial Intelligence | ██████████░░░░░░░░ 55% |
+| 🐳 DevOps | ███████░░░░░░░░░░░ 40% |
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+<div align="center">
+
+| Goal | Status |
+|:-----|:------:|
+| 🚀 Build SaaS Product | 🔄 |
+| ☁ AWS Certification | 🔄 |
+| 🤝 50+ Open Source Contributions | 🔄 |
+| 🏆 National Level Hackathon | 🔄 |
+| 💻 Master MERN Stack | 🟢 |
+| 🤖 Build AI Products | 🔄 |
+| 📱 Learn React Native | 🔄 |
+| 🐳 Learn Docker & Kubernetes | 🔄 |
+
+</div>
+
+---
+
+# 💻 Developer Terminal
+
+```bash
+$ whoami
+
+Jaymin Dattani
+
+$ education
+
+B.Tech Computer Engineering
+Marwadi University
+
+$ interests
+
+• Full Stack Development
+• Artificial Intelligence
+• Cloud Computing
+• Open Source
+
+$ current_project
+
+PixelPass 🚀
+
+$ life
+
+while(alive){
+    Learn();
+    Build();
+    Share();
+}
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://jaymin-dattani.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Now-0A192F?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jaymin-dattani-ba6695294">
+<img src="https://img.shields.io/badge/LinkedIn-Jaymin_Dattani-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+<div align="center">
+
+⭐ If you like my projects, consider **starring** them.
+
+🤝 I'm always open to collaborating on interesting projects.
+
+🚀 Let's build something awesome together.
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+> *"The best way to predict the future is to build it."*
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=J-Dattani&style=for-the-badge&color=0e75b6"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+
+### ⭐ Happy Coding!
+
+*"Building today. Learning forever. Growing every day."*
+
+</div>
