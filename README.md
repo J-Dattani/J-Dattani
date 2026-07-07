@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Jaymin+Dattani;Full+Stack+Developer;Computer+Engineering+Student;AI+%7C+Cloud+%7C+Open+Source;Building+Ideas+Into+Reality" />
+<img src="Beige Simple Elegant Personal LinkedIn Banner.png" />
 
 <br>
 
