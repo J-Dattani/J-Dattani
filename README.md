@@ -409,8 +409,8 @@ Chrome Extension for Highlights
 # 📊 GitHub Dashboard
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    
+<img src="https://github-readme-stats-jd.vercel.app/api?username=J-Dattani&theme=tokyonight"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
