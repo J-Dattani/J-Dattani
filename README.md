@@ -388,13 +388,25 @@ while(alive){
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=J-Dattani&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=J-Dattani&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=J-Dattani&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=J-Dattani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
