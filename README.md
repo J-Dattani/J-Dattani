@@ -32,7 +32,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Developer Dashboard
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">Dashboard
 
 <table>
 <tr>
