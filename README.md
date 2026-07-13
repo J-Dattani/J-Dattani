@@ -408,7 +408,7 @@ Chrome Extension for Highlights
 
 <div align="center">
     
-<img src="https://github-readme-stats-jd.vercel.app/api?username=J-Dattani&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats-jd.vercel.app/api?username=J-Dattani&theme=tokyonight"/> -->
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
