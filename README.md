@@ -191,7 +191,7 @@ Repeat();
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
 
 <br><br>
 
@@ -209,7 +209,7 @@ Repeat();
 
 ### ☁ Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,figma"/>
 
 </div>
 
