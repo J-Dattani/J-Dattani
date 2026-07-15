@@ -148,7 +148,7 @@ Repeat();
 <td>🌱 Learning</td>
 
 <td><b>AWS • AI Agents • Kubernetes</b></td>
-
+    
 </tr>
 
 <tr>
@@ -429,14 +429,15 @@ Chrome Extension for Highlights
 
 ---
 
+<!---
 # 🏆 GitHub Achievements
 
-<div align="center">
+#<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=J-Dattani&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
-
+---->
 ---
 
 # 🐍 Contribution Snake
