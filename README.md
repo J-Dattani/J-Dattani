@@ -437,8 +437,10 @@ Chrome Extension for Highlights
 <img src="https://github-profile-trophy.vercel.app/?username=J-Dattani&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
----->
+
 ---
+---->
+
 
 # 🐍 Contribution Snake
 
