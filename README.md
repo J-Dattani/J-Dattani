@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="[https://jaymin-dattani.vercel.app](https://jaymindattani.dev/)">
+<a href="https://jaymindattani.dev/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-111827?style=for-the-badge"/>
 </a>
 
