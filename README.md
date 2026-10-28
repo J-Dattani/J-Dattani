@@ -744,7 +744,7 @@ Explore my other repositories, experiments, and development work.
 
 <div align="center">
 
-| 💻 Coding | 🚀 Building | 🤝 Networking |
+🚀 Building | 🤝 Networking |
 |:---:|:---:|:---:|
 | Learning by doing | Turning ideas into projects | Sharing knowledge |
 
@@ -782,9 +782,9 @@ Explore my other repositories, experiments, and development work.
 
 <img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<br>
+<!-- <br>
 
-<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake — Dark Mode"/>
+<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake — Dark Mode"/> -->
 
 </div>
 
