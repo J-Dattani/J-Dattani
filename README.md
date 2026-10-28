@@ -667,9 +667,9 @@ An e-commerce website developed during my web development internship at 9Brainz.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<!-- <img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<br>
+<br> -->
 
 <img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake — Dark Mode"/>
 
