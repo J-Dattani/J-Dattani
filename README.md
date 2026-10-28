@@ -2,26 +2,30 @@
 
 <br>
 
-<img src="Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png" width="100%" alt="Jaymin Dattani Banner"/>
+<img src="Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png" width="100%" alt="Jaymin Dattani — Personal Banner"/>
 
 <br><br>
 
 <a href="https://jaymindattani.dev/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/jaymin-dattani-ba6695294/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:jdattani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/J-Dattani">
-<img src="https://img.shields.io/github/followers/J-Dattani?label=Followers&logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/J-Dattani?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=J-Dattani&style=for-the-badge&color=0891b2" alt="Profile Views"/>
+
+<br><br>
+
+**Computer Engineering Student | Full Stack Development | Cloud & AWS | Open Source**
 
 </div>
 
@@ -40,7 +44,7 @@ Education  : B.Tech Computer Engineering
 University : Marwadi University
 Location   : Gujarat, India
 Diploma CPI: 9.84/10
-Focus      : Cloud • Full Stack • AI
+Interests  : Cloud • Full Stack • AI
 ```
 
 </td>
@@ -48,15 +52,15 @@ Focus      : Cloud • Full Stack • AI
 
 ```text
 Open Source Contributor
-Campus Ambassador
-Hackathon Participant
+Former Campus Ambassador
+Internship Experience
 Developer Community Member
 
 Learn → Build → Share
 
-Focused on practical projects,
-cloud fundamentals, and
-building useful software.
+Building practical software,
+strengthening cloud skills,
+and solving real problems.
 ```
 
 </td>
@@ -67,11 +71,15 @@ building useful software.
 
 # <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="32" alt=""> About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding"/>
 
-I'm a Computer Engineering student at **Marwadi University** who enjoys building practical software, exploring cloud technologies, and learning through hands-on projects.
+I'm a Computer Engineering student at **Marwadi University**, interested in developing useful software, exploring cloud technologies, and learning through hands-on experience.
 
-My current direction is **Cloud / AWS / DevOps**, alongside full-stack development with the MERN stack. I enjoy collaborating with developer communities, contributing to open source, and turning ideas into working applications.
+My professional journey includes web development internships, MERN stack training, cybersecurity learning, open-source contributions, and student community leadership.
+
+I'm particularly interested in **Cloud Computing, AWS, and DevOps**, while continuing to develop my full-stack engineering skills.
+
+I believe in learning by building, collaborating with others, and improving through real-world projects.
 
 ```cpp
 class JayminDattani {
@@ -93,14 +101,313 @@ public:
 
 ---
 
+# 💼 Professional Experience
+
+<div align="center">
+
+### My Journey — 2024 to Present
+
+*A timeline of internships, technical training, open-source contributions, and leadership.*
+
+</div>
+
+<table>
+<tr>
+<td width="145" align="center" valign="top">
+
+### JUL 2026
+
+**PRESENT**
+
+<img src="https://img.shields.io/badge/ONGOING-16A34A?style=flat-square" alt="Ongoing"/>
+
+</td>
+<td valign="top">
+
+### MERN Stack Training
+
+**Rajeshwar Infotech** · Internship / Training
+
+📍 Rajkot, Gujarat, India · On-site
+
+**Focus:** MERN Stack and Web Development
+
+- Participating in hands-on MERN stack training.
+- Developing practical experience with frontend and backend technologies.
+- Working with React, Node.js, Express, and MongoDB concepts.
+- Strengthening full-stack development skills through implementation and debugging.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+<tr>
+<td width="145" align="center" valign="top">
+
+### MAY 2026
+
+**PRESENT**
+
+<img src="https://img.shields.io/badge/ONGOING-16A34A?style=flat-square" alt="Ongoing"/>
+
+</td>
+<td valign="top">
+
+### Cybersecurity Virtual Intern
+
+**Cisco Networking Academy** · Internship
+
+🌐 Remote
+
+**Focus:** Cybersecurity
+
+- Pursuing guided cybersecurity training and virtual lab activities.
+- Learning about network security and threat identification.
+- Developing an understanding of cybersecurity principles and security governance.
+- Building foundational knowledge through structured learning.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+<tr>
+<td width="145" align="center" valign="top">
+
+### JUN 2026
+
+**AUG 2026**
+
+<img src="https://img.shields.io/badge/COMPLETED-2563EB?style=flat-square" alt="Completed"/>
+
+</td>
+<td valign="top">
+
+### Web Development Intern
+
+**Oasis Infobyte** · Internship
+
+🌐 Remote
+
+**Focus:** MERN Stack · Web Development · Design
+
+- Worked on web development and design projects.
+- Focused on building responsive interfaces and improving user experience.
+- Applied frontend development concepts through practical tasks.
+- Gained additional experience with interface implementation and web design workflows.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+<tr>
+<td width="145" align="center" valign="top">
+
+### JAN 2026
+
+**MAR 2026**
+
+<img src="https://img.shields.io/badge/COMPLETED-2563EB?style=flat-square" alt="Completed"/>
+
+</td>
+<td valign="top">
+
+### Open Source Contributor
+
+**Elite Coders — Winter of Code 2026** · Freelance / Program
+
+🌐 Remote
+
+**Focus:** Open Source · Collaborative Development
+
+- Selected as a contributor for Elite Coders Winter of Code 2026.
+- Worked on assigned open-source projects during the coding program.
+- Engaged with existing codebases and contribution guidelines.
+- Focused on code implementation, issue resolution, feature development, and documentation.
+- Applied JavaScript, Python, Java, PHP, SQL, Bootstrap, Git, GitHub, Firebase, and beginner-level React.
+- Developed experience with collaborative workflows, maintainable code, and practical problem-solving.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+<tr>
+<td width="145" align="center" valign="top">
+
+### DEC 2025
+
+**FEB 2026**
+
+<img src="https://img.shields.io/badge/COMPLETED-2563EB?style=flat-square" alt="Completed"/>
+
+</td>
+<td valign="top">
+
+### Campus Ambassador
+
+**eDC — Entrepreneurship Development Cell, IIT Delhi** · Part-time
+
+🌐 Remote
+
+**Focus:** Outreach · Entrepreneurship · Community Development
+
+- Represented eDC IIT Delhi as a Campus Ambassador.
+- Developed and executed outreach strategies to raise awareness of entrepreneurship initiatives among students.
+- Facilitated networking opportunities connecting students with the IIT Delhi professional network.
+- Managed outreach assignments and promoted flagship events.
+- Helped improve participation, awareness, and student engagement.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+<tr>
+<td width="145" align="center" valign="top">
+
+### MAY 2024
+
+**JUN 2024**
+
+<img src="https://img.shields.io/badge/COMPLETED-2563EB?style=flat-square" alt="Completed"/>
+
+</td>
+<td valign="top">
+
+### Web Development Intern
+
+**9Brainz** · Internship
+
+📍 Rajkot, Gujarat, India · On-site
+
+**Focus:** PHP · JavaScript · Web Development
+
+- Gained practical experience in web development.
+- Worked with PHP and JavaScript.
+- Developed the Voyageur Bags e-commerce website.
+- Applied frontend and backend concepts to a practical web project.
+- Strengthened foundational web development and implementation skills.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**From web development fundamentals to full-stack engineering, cloud learning, cybersecurity, and open-source collaboration.**
+
+</div>
+
+---
+
+# 🌍 Recent Professional Engagements
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 IEEE TEMSCON-ASPAC 2026
+
+**International Conference · Marwadi University**
+
+- Contributed as part of the conference anchoring team.
+- Participated in the proceedings of a two-day international conference.
+- Worked with faculty, speakers, and fellow organizers.
+- Gained experience in professional communication, event coordination, and international academic engagement.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Microsoft Pune Workshop
+
+**6 October 2026**
+
+*In Person Chat with Your Data in a Day*
+
+- Attended an in-person workshop at Microsoft Pune.
+- Explored practical data and AI-related concepts.
+- Gained exposure to professional technology discussions and hands-on learning.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Assisted Development
+
+**Developer Workshop · Marwadi University**
+
+- Gained hands-on exposure to Claude Code through the command-line interface.
+- Explored AI-assisted development workflows.
+- Learned about using AI tools within software development tasks.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Developer Communities
+
+**GDG · Cloud Communities · Technical Events**
+
+- Participated in developer community activities and technical workshops.
+- Engaged with cloud, software development, and emerging technology topics.
+- Continued learning beyond academic coursework.
+
+</td>
+</tr>
+</table>
+
+---
+
 # ⚡ Current Status
 
 <table>
-<tr><td>🔭 Building</td><td><b>PixelPass — MERN Project</b></td></tr>
-<tr><td>🌱 Learning</td><td><b>AWS, Cloud Deployment, AI and DevOps Fundamentals</b></td></tr>
-<tr><td>💻 Working With</td><td><b>JavaScript, React, Node.js, Express, PHP and Databases</b></td></tr>
-<tr><td>🎯 Career Focus</td><td><b>Cloud / AWS / DevOps Internships</b></td></tr>
-<tr><td>⚡ Approach</td><td><b>Build projects that demonstrate what I learn</b></td></tr>
+<tr>
+<td>🔭 Building</td>
+<td><b>PixelPass — MERN Project</b></td>
+</tr>
+<tr>
+<td>🌱 Learning</td>
+<td><b>AWS, Cloud Deployment, AI and DevOps Fundamentals</b></td>
+</tr>
+<tr>
+<td>💻 Working With</td>
+<td><b>JavaScript, React, Node.js, Express, PHP and Databases</b></td>
+</tr>
+<tr>
+<td>🎯 Career Focus</td>
+<td><b>Cloud / AWS / DevOps Internships, with Full-Stack Roles Also of Interest</b></td>
+</tr>
+<tr>
+<td>🤝 Community</td>
+<td><b>Open Source, Developer Events and Technical Collaboration</b></td>
+</tr>
+<tr>
+<td>⚡ Approach</td>
+<td><b>Learn through building and continuous improvement</b></td>
+</tr>
 </table>
 
 ---
@@ -153,23 +460,6 @@ public:
 
 ---
 
-<div align="center">
-
-## 💭 My Philosophy
-
-```cpp
-while (alive) {
-    Learn();
-    Build();
-    HelpOthers();
-    Repeat();
-}
-```
-
-</div>
-
----
-
 # 🏆 Achievement Dashboard
 
 <div align="center">
@@ -179,10 +469,10 @@ while (alive) {
 | 🎓 Diploma in Computer Engineering | **9.84/10 CPI — 2025** |
 | 🧾 Search4Career | Patent filed |
 | 💙 Elite Coders Winter of Code | Contributor — 2026 |
-| 🤝 eDC IIT Delhi | Campus Ambassador |
+| 🤝 eDC IIT Delhi | Campus Ambassador — 2025–2026 |
 | ☁️ AWS Academy | Cloud Foundations |
-| 🌐 Developer Communities | GDG Events and Cloud Community Days |
-| 🎤 Technical Events | Conferences, workshops and community participation |
+| 🌐 Developer Communities | GDG events and Cloud Community Days |
+| 🎤 IEEE TEMSCON-ASPAC | Conference anchoring team — 2026 |
 
 </div>
 
@@ -235,7 +525,27 @@ A web project focused on useful resources for dog owners.
 
 An e-commerce website developed during my web development internship at 9Brainz.
 
-**Experience:** Web Development Internship
+**Technologies:** PHP · JavaScript · Web Development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 XRE Cloud Consulting
+
+A website project focused on presenting cloud consulting services.
+
+**Focus:** Web Design · Responsive Interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 NEON BREAKER
+
+A game development project focused on interactive gameplay.
+
+**Focus:** Programming · Game Logic
 
 </td>
 </tr>
@@ -245,26 +555,48 @@ An e-commerce website developed during my web development internship at 9Brainz.
 
 # 📅 Developer Journey
 
+<div align="center">
+
 ```text
-2024
-├── Web Development Internship at 9Brainz
-├── Built Voyageur Bags
-└── Developed Web Projects
+                    MY DEVELOPER JOURNEY
 
-2025
-├── Completed Diploma in Computer Engineering
-├── Achieved 9.84/10 CPI
-├── Began B.Tech in Computer Engineering
-└── Filed Search4Career Patent
-
-2026
-├── Elite Coders Winter of Code Contributor
-├── eDC IIT Delhi Campus Ambassador
-├── AWS Academy Cloud Foundations
-├── Oracle and Cybersecurity Credentials
-├── Developer Community Events
-└── Continued Building Full-Stack Projects
+2024 ─────────────────────────────────────
+ │
+ ├── Web Development Internship — 9Brainz
+ ├── Voyageur Bags E-commerce Website
+ └── Foundations in PHP and JavaScript
+ │
+ ▼
+2025 ─────────────────────────────────────
+ │
+ ├── Diploma in Computer Engineering
+ ├── Diploma CPI: 9.84/10
+ ├── Began B.Tech in Computer Engineering
+ ├── Search4Career Patent Filed
+ └── eDC IIT Delhi Campus Ambassador
+ │
+ ▼
+2026 ─────────────────────────────────────
+ │
+ ├── Elite Coders Winter of Code Contributor
+ ├── Oasis Infobyte Web Development Internship
+ ├── Cisco Networking Academy Cybersecurity Virtual Internship
+ ├── Rajeshwar Infotech MERN Stack Training
+ ├── AWS Academy Cloud Foundations
+ ├── Microsoft Pune Workshop
+ ├── IEEE TEMSCON-ASPAC Conference Anchoring Team
+ └── Continued Full-Stack and Cloud Learning
+ │
+ ▼
+NEXT ─────────────────────────────────────
+ │
+ ├── Build Practical AWS Projects
+ ├── Strengthen Cloud and DevOps Skills
+ ├── Contribute to Open Source
+ └── Develop Production-Minded Applications
 ```
+
+</div>
 
 ---
 
@@ -279,7 +611,8 @@ An e-commerce website developed during my web development internship at 9Brainz.
 | 🤝 Open Source | Contributor |
 | ☁️ Cloud Communities | Technical events and workshops |
 | 🎤 Technical Conferences | Participation and collaboration |
-| 🏫 eDC IIT Delhi | Campus Ambassador |
+| 🏫 eDC IIT Delhi | Former Campus Ambassador |
+| 💻 Developer Workshops | Hands-on technical learning |
 
 </div>
 
@@ -301,7 +634,7 @@ An e-commerce website developed during my web development internship at 9Brainz.
 
 </div>
 
-<sub>Keep credential names aligned with the exact titles shown on your certificates and LinkedIn profile.</sub>
+<sub>Ensure the certification names above match the exact titles on your issued credentials. Community participation and course completion should not be presented as professional certifications unless a credential was awarded.</sub>
 
 ---
 
@@ -389,6 +722,13 @@ $ education
 B.Tech Computer Engineering
 Marwadi University
 
+$ professional_experience
+Web Development Intern
+MERN Stack Trainee
+Cybersecurity Virtual Intern
+Open Source Contributor
+Former Campus Ambassador
+
 $ focus
 Cloud Computing • AWS • DevOps
 Full Stack Development • AI
@@ -444,7 +784,7 @@ Learn → Build → Share → Repeat
 
 ## 💭 Developer Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 
 <br><br>
 
