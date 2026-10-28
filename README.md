@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png" width="100%" alt="Jaymin Dattani — Personal Banner"/>
+<img src="Linkedin Banner.png" width="100%" alt="Jaymin Dattani — Personal Banner"/>
 
 <br><br>
 
