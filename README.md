@@ -667,9 +667,11 @@ An e-commerce website developed during my web development internship at 9Brainz.
 
 <div align="center">
 
-*The contribution snake animation requires a GitHub Actions workflow to generate its SVG.*
+<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<!-- Add the generated snake image here after configuring the workflow. -->
+<br>
+
+<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake — Dark Mode"/>
 
 </div>
 
