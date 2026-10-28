@@ -744,7 +744,7 @@ Explore my other repositories, experiments, and development work.
 
 <div align="center">
 
-🚀 Building | 🤝 Networking |
+| 🚀 Building | 🤝 Networking |
 |:---:|:---:|:---:|
 | Learning by doing | Turning ideas into projects | Sharing knowledge |
 
