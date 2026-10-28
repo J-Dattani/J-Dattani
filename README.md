@@ -432,20 +432,130 @@ public:
 
 # 🚀 Featured Projects
 
-> Project details will be expanded after the full project list is reviewed.
+> A selection of projects across full-stack development, cloud and networking, e-commerce, and application development.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### 🏢 Multi-Tenant Society Suite (MTSS)
+
+A society-management platform built with ASP.NET Core MVC and SQL Server, covering resident management, maintenance billing, complaints, visitor management, facility booking, and role-based access.
+
+**Technologies:** C# · ASP.NET Core MVC · Entity Framework Core · SQL Server
+
+<a href="https://github.com/J-Dattani/MTSS">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="MTSS Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cisco Hybrid Shield
+
+A hybrid datacenter network-security project using Cisco Packet Tracer, VLANs, ACLs, SSH, and network-security practices.
+
+**Technologies:** Cisco Packet Tracer · Networking · VLANs · ACLs · SSH
+
+<a href="https://github.com/J-Dattani/Cisco-Hybrid-Shield">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cisco Hybrid Shield Repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎮 PixelPass
 
-A game-subscription platform developed using the MERN stack.
+A game-rental platform frontend featuring game discovery, search, detailed game information, rental durations, and a demo cart.
 
-**Technologies:** React · Node.js · Express · MongoDB
+**Technologies:** React · Vite · Bootstrap · Axios · React Router
 
 <a href="https://github.com/J-Dattani/pixelpass">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="PixelPass Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 URL Shortner
+
+A web-based URL-shortening application with separate frontend and backend directories.
+
+<a href="https://url-shortner-olive-phi.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="URL Shortner Live Demo"/>
+</a>
+
+<a href="https://github.com/J-Dattani/url-shortner">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="URL Shortner Repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 QRToken
+
+A project in your repository collection. Visit the repository for its implementation, features, and technical details.
+
+<a href="https://github.com/J-Dattani/QRToken">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="QRToken Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Voyageur Bags
+
+An e-commerce website developed during my early web-development experience at 9Brainz.
+
+**Focus:** E-commerce · Web Development
+
+<a href="https://github.com/J-Dattani/Voyageur-Bags">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Voyageur Bags Repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing my background, projects, and developer journey.
+
+<a href="https://jaymindattani.dev/">
+<img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio"/>
+</a>
+
+<a href="https://github.com/J-Dattani/portfolio">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 NEON BREAKER
+
+A game-development project. Visit the repository to explore its implementation.
+
+<a href="https://github.com/J-Dattani/neon-breaker">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="NEON BREAKER Repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧳 Tourism Project
+
+Your tourism project is part of your project list, but its exact repository URL still needs confirmation.
+
+<a href="https://github.com/J-Dattani?tab=repositories">
+<img src="https://img.shields.io/badge/Find_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find Tourism Repository"/>
 </a>
 
 </td>
@@ -470,21 +580,22 @@ A Chrome extension project for saving highlights and notes.
 
 A web project focused on useful resources for dog owners.
 
-**Technologies:** HTML · CSS · JavaScript
+**Focus:** Web Development
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ Voyageur Bags
+### 🌍 More Projects
 
-An e-commerce website developed during my web development internship at 9Brainz.
+Explore my other repositories, experiments, and development work.
 
-**Technologies:** PHP · JavaScript · Web Development
+<a href="https://github.com/J-Dattani?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All GitHub Repositories"/>
+</a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 📅 Developer Journey
