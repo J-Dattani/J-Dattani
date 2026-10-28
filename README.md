@@ -600,7 +600,7 @@ Explore my other repositories, experiments, and development work.
 
 # 📅 Developer Journey
 
-<div align="center">
+<div>
 
 ### <img src="https://img.shields.io/badge/2024-2563EB?style=for-the-badge" alt="2024"/>
 
@@ -623,7 +623,7 @@ Explore my other repositories, experiments, and development work.
 </tr>
 </table>
 
-<div align="center">
+<div>
 
 ### <img src="https://img.shields.io/badge/2025-7C3AED?style=for-the-badge" alt="2025"/>
 
@@ -648,7 +648,7 @@ Explore my other repositories, experiments, and development work.
 </tr>
 </table>
 
-<div align="center">
+<div>
 
 ### <img src="https://img.shields.io/badge/2026-0F766E?style=for-the-badge" alt="2026"/>
 
@@ -676,7 +676,7 @@ Explore my other repositories, experiments, and development work.
 </tr>
 </table>
 
-<div align="center">
+<div>
 
 ### <img src="https://img.shields.io/badge/NEXT-111827?style=for-the-badge" alt="Next"/>
 
