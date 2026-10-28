@@ -745,8 +745,8 @@ Explore my other repositories, experiments, and development work.
 <div align="center">
 
 | 🚀 Building | 🤝 Networking |
-|:---:|:---:|:---:|
-| Learning by doing | Turning ideas into projects | Sharing knowledge |
+|:---:|:---:|
+|Turning ideas into projects | Sharing knowledge |
 
 | 🎯 Problem Solving | ☁️ Cloud Learning | 🤖 Exploring AI |
 |:---:|:---:|:---:|
