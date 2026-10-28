@@ -776,23 +776,15 @@ Explore my other repositories, experiments, and development work.
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Dattani&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
-*The contribution snake animation requires a GitHub Actions workflow to generate its SVG.*
+<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<!-- Add the generated snake image here after configuring the workflow. -->
+<br>
+
+<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake — Dark Mode"/>
 
 </div>
 
