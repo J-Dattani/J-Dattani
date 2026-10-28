@@ -625,8 +625,6 @@ An e-commerce website developed during my web development internship at 9Brainz.
 
 </div>
 
-<sub>Ensure certification names match the exact titles on your issued credentials. Community participation and course completion should not be presented as professional certifications unless a credential was awarded.</sub>
-
 ---
 
 # ☕ Beyond Coding
@@ -660,16 +658,6 @@ An e-commerce website developed during my web development internship at 9Brainz.
 <img src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true" alt="Jaymin's GitHub Statistics" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="49%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Dattani&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
 
 </div>
 
