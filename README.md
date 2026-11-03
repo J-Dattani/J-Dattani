@@ -761,32 +761,19 @@ Explore my other repositories, experiments, and development work.
 ### 💡 "Small improvements every day lead to remarkable results."
 
 </div>
-
----
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=J-Dattani&show_icons=true&theme=tokyonight&hide_border=true" alt="Jaymin's GitHub Statistics" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dattani&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="49%"/>
-
-</div>
-
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake — Dark Mode"/> 
 
-<!-- <br>
 
-<img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake — Dark Mode"/> -->
+<!-- <img src="https://raw.githubusercontent.com/J-Dattani/J-Dattani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> -->
 
-</div>
+</div?
+
 
 ---
 
